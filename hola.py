@@ -1,3 +1,8 @@
 # -*- coding: utf-8 -*-
 
-print ("Hola Mundo")
+m = "Hola Mundo"
+i = 0
+while(i < 4):
+	print m
+	i += 1
+
